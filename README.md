@@ -1,3 +1,6 @@
+![Todo main pic](https://github.com/Amaholy/My-Todo-List-App/assets/128307926/8ecad20b-5c0a-4ab8-a37c-187a85b47a00)
+![todo sec pic](https://github.com/Amaholy/My-Todo-List-App/assets/128307926/b664faca-825c-4474-8367-328bd1122af4)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
